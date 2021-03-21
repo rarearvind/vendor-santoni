@@ -2273,7 +2273,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libloc_api_v02 \
-    libantradio \
     vendor.qti.hardware.fm@1.0 \
     WfdService \
     CneApp \
